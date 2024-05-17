@@ -14,6 +14,7 @@ php artisan make:queue-batches-table
 php artisan make:notifications-table
 
 # Laravel 10
+php artisan queue:table
 php artisan queue:batches-table
 php artisan notifications:table
 
